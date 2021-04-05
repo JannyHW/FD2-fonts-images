@@ -1,6 +1,6 @@
 # myfd2
 
-App: https://i.ibb.co/nbKvV22/d2s.png
+MyApp: https://i.ibb.co/nbKvV22/d2s.png
 
 ## Getting Started
 
