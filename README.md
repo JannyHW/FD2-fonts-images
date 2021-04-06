@@ -2,6 +2,8 @@
 
 MyApp: https://i.ibb.co/nbKvV22/d2s.png
 
+❮img src="assets/d2.png" width="100" ❯
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
