@@ -2,7 +2,9 @@
 
 MyApp: https://i.ibb.co/nbKvV22/d2s.png
 
-❮img src="assets/d2.png" width="100" ❯
+![](assets/d2.png)
+
+❮img src="assets/d2.png" width="100" /❯
 
 ## Getting Started
 
